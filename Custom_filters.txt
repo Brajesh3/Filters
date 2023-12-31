@@ -1,1 +1,17 @@
+! 2023-12-23 https://search.brave.com
+search.brave.com##body > div > .svelte-8ycoh6
+
+! 2023-12-27 https://m.youtube.com
+m.youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
+m.youtube.com##.icon-avatar_logged_out
+m.youtube.com##.icon-flag.slim_video_action_bar_renderer_button
+
+! 2023-12-31 https://www.reddit.com
+www.reddit.com##.relative.justify-end.flex-1.items-center.flex > div.items-center.inline-flex
+www.reddit.com###expand-user-drawer-button
+www.reddit.com##.mt-lg.mb-sm.xs\:w-fit.item-center.flex
+www.reddit.com##shreddit-post-overflow-menu
+www.reddit.com##.pl-xs.items-center.flex
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.xs\:pt-md.pt-xs.mb-0.mt-0.flex-col.flex.box-border.z-\[2\].bg-neutral-background > faceplate-expandable-section-helper:nth-of-type(2) > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.xs\:pt-md.pt-xs.mb-0.mt-0.flex-col.flex.box-border.z-\[2\].bg-neutral-background > nav
 
